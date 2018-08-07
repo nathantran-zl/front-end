@@ -71,3 +71,33 @@
 9. [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
 10. [HTML inspector](https://github.com/philipwalton/html-inspector)
+
+## Preprocessor HTML
+
+* [Pug](https://pugjs.org/api/getting-started.html)
+
+
+## Practice
+
+### Resumer Portal
+
+* https://webthemez.com/preview/?johndoe-portfolio-resume-bootstrap-template/#
+* https://webthemez.com/preview/?john-bootstrap-one-page-html5-free-resume-template#
+* https://webthemez.com/preview/?samuel-vcard-resume-html5-website-template/#
+* https://webthemez.com/preview/?creative-dev-bootstrap-portfolio-web-template/#
+* https://webthemez.com/preview/?andey-responsive-bootstrap-portfolio-web-template/#
+* https://webthemez.com/preview/?johndoe-portfolio-resume-bootstrap-template/#
+* https://webthemez.com/preview/?best-free-creative-resume-template-winner/#
+* https://webthemez.com/preview/?elegant-free-multi-purpose-bootstrap-responsive-template#
+
+### Customer Portal
+
+* https://webthemez.com/preview/?golden-hotel-free-html5-bootstrap-web-template
+* 
+* http://real-estate.aws.ipv4.ro/angular/index.html#/discover/map-full
+
+### Admin Portal
+
+* https://webthemez.com/preview/?track-material-design-free-admin-template
+* https://webthemez.com/preview/?target-free-responsive-bootstrap-admin-template
+* http://flatfull.com/themes/materil/angular/#/app/dashboard
