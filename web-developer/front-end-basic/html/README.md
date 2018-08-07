@@ -93,7 +93,6 @@
 ### Customer Portal
 
 * https://webthemez.com/preview/?golden-hotel-free-html5-bootstrap-web-template
-* 
 * http://real-estate.aws.ipv4.ro/angular/index.html#/discover/map-full
 
 ### Admin Portal
