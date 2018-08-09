@@ -5,6 +5,7 @@
 * [MarkSheet](https://marksheet.io/html-basics.html)
 * [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [w3schools](https://www.w3schools.com/html/default.asp)
+* [Scrimba](https://scrimba.com/g/ghtml)
 
 ## Books
 
@@ -15,27 +16,27 @@
 
 1. [Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-    * Concept and syntax
-    * Attributes
-    * HTML document
-    * Whitespace in HTML
-    * Including special characters in HTML
-    * HTML comments
+    * [Concept and syntax]()
+    * [Attributes]()
+    * [HTML document]()
+    * [Whitespace in HTML]()
+    * [Including special characters in HTML]()
+    * [HTML comments]()
 
 2. [In the head - Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-    * Adding a title
-    * Metadata: the `<meta>` element
-    * Favicon - custom icons to your site
-    * Applying CSS and JavaScript to HTML
-    * Setting the primary language of the document
+    * [Adding a title]()
+    * [Metadata: the `<meta>` element]()
+    * [Favicon - custom icons to your site]()
+    * [Applying CSS and JavaScript to HTML]()
+    * [Setting the primary language of the document]()
 3. [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 4. [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/semantics)
 
 5. [Element content categories](https://html.spec.whatwg.org/multipage/indices.html#element-content-categories)
 
-6. HTML Text
+6. [HTML Text]()
     * [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
     * [Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
     * [Text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
@@ -68,9 +69,12 @@
     * [Block elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
     * [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 
-9. [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+## Debug
+* [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-10. [HTML inspector](https://github.com/philipwalton/html-inspector)
+## Markup Validation Service
+
+* [HTML inspector](https://github.com/philipwalton/html-inspector)
 
 ## Preprocessor HTML
 
