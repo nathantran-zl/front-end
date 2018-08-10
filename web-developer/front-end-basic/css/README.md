@@ -53,6 +53,7 @@
 6. [CSS Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
 7. [CSS Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images)
+
     * [Image sprites](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS)
     * [CSS gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients)
 
@@ -76,15 +77,20 @@
 ## Topics
 
 1. CSS Variable
-    * https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
     * https://scrimba.com/g/gcssvariables
+    * https://css-tricks.com/difference-between-types-of-css-variables/
+    * https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
 
 2. CSS Grid
     * https://scrimba.com/g/gR8PTE
     * https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
+    * https://css-tricks.com/getting-started-css-grid/
+
 3. Flex
     * https://scrimba.com/g/gflexbox
+    * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     * https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af
+
 4. Sprite images
     * http://compass-style.org/help/tutorials/spriting/
     * https://css-tricks.com/css-sprites/
