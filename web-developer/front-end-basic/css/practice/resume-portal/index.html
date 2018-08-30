@@ -4,39 +4,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keyworks" content="Nathan Tran">
+    <meta name="description" content="Resume Portal - Nathan Tran">
+    <meta name="author" content="nathan.tran0222@gmail.com">
     <title>Resume Portal</title>
+    <!-- Reset CSS -->
+    <link rel="stylesheet" href="styles/reset.css">
+
+    <!-- Google fonts online -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,400,700" >
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Material Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="styles/main.css">
   </head>
 
   <body>
     <!-- Header Content Start-->
     <!-- Refer UI - Navigation: https://webthemez.com/preview/?johndoe-portfolio-resume-bootstrap-template/# -->
-    <header>
+    <header class="navbar navbar-expand-lg navbar-light bg-light">
       <!-- Logo Content -->
-      <h1>
-        <a href="javascript:void(0)">
-          <img src="" alt="Nathan Tran"/>
+      <h1 class="">
+        <a class="logo" href="javascript:void(0)">
+          <img class="img-res" src="./assets/images/favicon-nathan-tran.png" alt="Nathan Tran"/>
         </a>
       </h1>
+
+      <!-- Menu icon -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="material-icons">menu</i>
+      </button>
       <!-- Navigation Content -->
-      <nav>
-        <ul>
-          <li><a href="javascript:void(0)">Home</a></li>
-          <li><a href="javascript:void(0)">About</a></li>
-          <li><a href="javascript:void(0)">Skills</a></li>
-          <li><a href="javascript:void(0)">Experience</a></li>
-          <li><a href="javascript:void(0)">Projects</a></li>
-          <li><a href="javascript:void(0)">Testimonial</a></li>
-          <li><a href="javascript:void(0)">Contact</a></li>
+      <nav id="navbarNavDropdown" class="collapse navbar-collapse">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a href="javascript:void(0)">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">About</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">Experience</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">Testimonial</a>
+          </li>
+          <li class="nav-item">
+            <a href="javascript:void(0)">Contact</a>
+          </li>
         </ul>
       </nav>
     </header>
     <!-- Header Content End-->
 
     <!-- Banner Content Start -->
-    <section>
+    <!-- <section> -->
       <!-- Introduction Content -->
       <!-- Refer UI - Home: https://webthemez.com/preview/?john-bootstrap-one-page-html5-free-resume-template# -->
-      <div>
+      <!-- <div>
         <div>
           <a href="javascript:void(0)">
             <img src="" alt=""/>
@@ -44,11 +80,11 @@
         </div>
         <h2>Nathan Tran (Nghia Tran)</h2>
         <p>Developer</p>
-      </div>
+      </div> -->
 
       <!-- Social Network Content -->
       <!-- Refer UI - Home: https://webthemez.com/preview/?samuel-vcard-resume-html5-website-template/# -->
-      <ul>
+      <!-- <ul>
         <li><a href="javascript:void(0)"></a>Facebook</li>
         <li><a href="javascript:void(0)"></a>Twitter</li>
         <li><a href="javascript:void(0)"></a>Instagram</li>
@@ -57,12 +93,12 @@
         <li><a href="javascript:void(0)"></a>Github</li>
         <li><a href="javascript:void(0)"></a>YouTube</li>
         <li><a href="javascript:void(0)"></a>Pinterest</li>
-      </ul>
+      </ul> -->
 
       <!-- Quotations Content (Carousel) -->
       <!-- Refer UI: https://webthemez.com/preview/?creative-dev-bootstrap-portfolio-web-template/# -->
       <!-- Refer Bootstrap 4 Carousel: https://getbootstrap.com/docs/4.0/components/carousel/ -->
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -100,15 +136,15 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-    </section>
+    </section> -->
     <!-- Banner Content End -->
 
     <!-- About Content Start -->
     <!-- Refer UI - About Me: https://webthemez.com/preview/?john-bootstrap-one-page-html5-free-resume-template# -->
     <!-- Refer UI - Who am I: https://webthemez.com/preview/?andey-responsive-bootstrap-portfolio-web-template/# -->
-    <section>
+    <!-- <section> -->
       <!-- About heading -->
-      <h2>About me</h2>
+      <!-- <h2>About me</h2>
       <p>A persone who loves Nature and It's creations</p>
       <div>
         <div>
@@ -137,12 +173,12 @@
           </ul>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- About Content End -->
 
     <!-- Skills Content Start-->
     <!-- Refer UI - What I Do: https://webthemez.com/preview/?johndoe-portfolio-resume-bootstrap-template/# -->
-    <section>
+    <!-- <section>
       <h2>My Skills</h2>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
 
@@ -183,21 +219,21 @@
           </li>
         </ul>
       </div>
-    </section>
+    </section> -->
     <!-- Skills Content End -->
 
     <!-- Experience Content Start -->
     <!-- Refer UI: https://webthemez.com/preview/?john-bootstrap-one-page-html5-free-resume-template# -->
-    <section>
+    <!-- <section>
 
-    </section>
+    </section> -->
     <!-- Experience Content End -->
 
     <!-- Projects Content Start -->
     <!-- Refer UI - Works: https://webthemez.com/preview/?johndoe-portfolio-resume-bootstrap-template/# -->
-    <section>
+    <!-- <section> -->
       <!-- Project Image -->
-      <ul>
+      <!-- <ul>
         <li>
           <div>
             <a href="javascript:void(0)">
@@ -288,12 +324,12 @@
         </li>
       </ul>
 
-    </section>
+    </section> -->
     <!-- Projects Content End -->
 
     <!-- Testimonial Content Start -->
     <!-- Refer UI - Testimonial: https://webthemez.com/preview/?best-free-creative-resume-template-winner/# -->
-    <section>
+    <!-- <section>
       <h2>Testimonial</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
       <ul>
@@ -334,18 +370,18 @@
           <p>Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida tortor.</p>
         </li>
       </ul>
-    </section>
+    </section> -->
     <!-- Testimonial Content End -->
 
     <!-- Contact Content Start -->
     <!-- Refer UI - Contact: https://webthemez.com/preview/?john-bootstrap-one-page-html5-free-resume-template# -->
-    <section>
+    <!-- <section>
       <h2>Contact Us</h2>
-      <div>
+      <div> -->
         <!-- Contact Info Content -->
-        <div>
+        <!-- <div> -->
           <!-- Contact Info Address Content -->
-          <address>
+          <!-- <address>
             <div>
               <span>Street Address</span>
               <a href="https://www.google.com/maps/place/Phan+T%E1%BB%A9,+M%E1%BB%B9+An,+Ng%C5%A9+H%C3%A0nh+S%C6%A1n,+%C4%90%C3%A0+N%E1%BA%B5ng+550000,+Vietnam/@16.0460617,108.2423597,17z/data=!3m1!4b1!4m5!3m4!1s0x314217640973a58f:0xd5f5fcfb83084e22!8m2!3d16.0460617!4d108.2445484">Phan tu, Ngu Hanh Son</a>
@@ -366,10 +402,10 @@
               <span>Email</span>
               <a href="mailto:nathan.tran0222@gmail.com"></a>
             </div>
-          </address>
+          </address> -->
 
           <!-- Contact Info Social Network Content -->
-          <ul>
+          <!-- <ul>
             <li><a href="javascript:void(0)"></a>Facebook</li>
             <li><a href="javascript:void(0)"></a>Twitter</li>
             <li><a href="javascript:void(0)"></a>Instagram</li>
@@ -379,10 +415,10 @@
             <li><a href="javascript:void(0)"></a>YouTube</li>
             <li><a href="javascript:void(0)"></a>Pinterest</li>
           </ul>
-        </div>
+        </div> -->
 
         <!-- Contact Form Contact Me Content -->
-        <form>
+        <!-- <form>
           <input type="text" placeholder="Name *" required />
           <input type="email" placeholder="Email *" required />
           <input type="email" placeholder="Subject *" required />
@@ -390,19 +426,19 @@
           <button type="submit">Send Message</button>
         </form>
       </div>
-    </section>
+    </section> -->
     <!-- Contact Content End -->
 
     <!-- Footer Content Start -->
     <!-- Refer UI - Footer: https://webthemez.com/preview/?elegant-free-multi-purpose-bootstrap-responsive-template# -->
-    <footer>
+    <!-- <footer> -->
       <!-- Copyright Content -->
-      <div>
+      <!-- <div>
         <p>Copyright &#64; 2018, Template by <a>Nathan Tran</a></p>
-      </div>
+      </div> -->
 
       <!-- Social Network Content -->
-      <ul>
+      <!-- <ul>
         <li><a href="javascript:void(0)"></a>Facebook</li>
         <li><a href="javascript:void(0)"></a>Twitter</li>
         <li><a href="javascript:void(0)"></a>Instagram</li>
@@ -412,8 +448,16 @@
         <li><a href="javascript:void(0)"></a>YouTube</li>
         <li><a href="javascript:void(0)"></a>Pinterest</li>
       </ul>
-    </footer>
+    </footer> -->
     <!-- Footer Content End -->
+
+    <!-- Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <!-- Main JS -->
+    <script src="js/main.js" crossorigin="anonymous"></script>
 
     <!-- HTML Inspector -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/html-inspector/0.8.2/html-inspector.js"></script>
