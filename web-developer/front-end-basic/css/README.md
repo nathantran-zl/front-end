@@ -83,13 +83,15 @@
 
 2. CSS Grid
     * https://scrimba.com/g/gR8PTE
-    * https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
     * https://css-tricks.com/getting-started-css-grid/
+    * https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
+    * https://mozilladevelopers.github.io/playground/css-grid/
 
 3. Flex
     * https://scrimba.com/g/gflexbox
     * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     * https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af
+    * http://flexboxplayground.catchmyfame.com/
 
 4. Sprite images
     * http://compass-style.org/help/tutorials/spriting/
@@ -140,3 +142,7 @@
 * https://webthemez.com/preview/?track-material-design-free-admin-template
 * https://webthemez.com/preview/?target-free-responsive-bootstrap-admin-template
 * http://flatfull.com/themes/materil/angular/#/app/dashboard
+
+## UX Design
+
+* [The Best Places to Find UX Design Inspiration Online](https://skillcrush.com/2018/08/16/best-ux-design-inspiration-online/)
